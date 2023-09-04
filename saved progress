@@ -1,3 +1,19 @@
-## hello
+##dependencies installed in front end
+vite-react
+router-dom
+axios
+bootstrap
+##dependencies installed in back end
+mongoose
+express
+nodemon
+cors
 
+##server
+cd server
+npm start
+
+##general
+cd vite-project
+npm run dev
 
