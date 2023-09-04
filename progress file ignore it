@@ -1,0 +1,9 @@
+##################### 
+#// for frontend
+first cd vite-project
+npm run dev
+#// for backend
+
+cd server
+
+npm start
